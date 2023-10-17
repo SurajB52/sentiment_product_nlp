@@ -1,0 +1,7 @@
+transformer
+numpy
+pandas
+matplotlib
+tensorflow
+streamlit
+
